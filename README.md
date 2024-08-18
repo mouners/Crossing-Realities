@@ -1,8 +1,8 @@
 Crossing Realities
 
-You can try the game hear: https://mounersh.itch.io/crossing-realities
+You can try the game here: https://mounersh.itch.io/crossing-realities
 
-Thank you for playing, I hope you enjoy it. This game was built in 6 days of my participation in game jam https://itch.io/jam/beginners-jam-summer-2024. Leave in the comments what you like and what you do not like in the game, If I have more time I can make a much better game. Hope in days to makes more games.
+Thank you for playing, I hope you enjoy it. This game was built within 6 days of my participation in Game Jam https://itch.io/jam/beginners-jam-summer-2024. Leave in the comments what you like and what you do not like in the game, If I have more time I can make a much better game. Hope in days to make more games.
 
 Description:
 
